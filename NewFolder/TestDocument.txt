@@ -1,1 +1,2 @@
 This is a change in the document.
+This new change is for newBranch.
